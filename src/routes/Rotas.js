@@ -9,7 +9,7 @@ export default function Rotas(){
         <HashRouter>
             <Switch>
                 <Route exact path="/" component={Home} />
-                <Route exact path="/projectqrcode" component={Home} />
+                <Route exact path="/ProjectQrCode-Frontend" component={Home} />
             </Switch>
         </HashRouter>
     )
