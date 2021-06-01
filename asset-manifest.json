@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/projectqrcode/static/css/main.25383316.chunk.css",
-    "main.js": "/projectqrcode/static/js/main.dfad0155.chunk.js",
-    "main.js.map": "/projectqrcode/static/js/main.dfad0155.chunk.js.map",
-    "runtime-main.js": "/projectqrcode/static/js/runtime-main.b4b6335c.js",
-    "runtime-main.js.map": "/projectqrcode/static/js/runtime-main.b4b6335c.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/projectqrcode/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.69453ab2.chunk.js": "/projectqrcode/static/js/2.69453ab2.chunk.js",
-    "static/js/2.69453ab2.chunk.js.map": "/projectqrcode/static/js/2.69453ab2.chunk.js.map",
-    "index.html": "/projectqrcode/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/projectqrcode/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.25383316.chunk.css.map": "/projectqrcode/static/css/main.25383316.chunk.css.map",
-    "static/js/2.69453ab2.chunk.js.LICENSE.txt": "/projectqrcode/static/js/2.69453ab2.chunk.js.LICENSE.txt"
+    "main.css": "/ProjectQrCode-Frontend/static/css/main.25383316.chunk.css",
+    "main.js": "/ProjectQrCode-Frontend/static/js/main.8e4c76ae.chunk.js",
+    "main.js.map": "/ProjectQrCode-Frontend/static/js/main.8e4c76ae.chunk.js.map",
+    "runtime-main.js": "/ProjectQrCode-Frontend/static/js/runtime-main.2ee30f23.js",
+    "runtime-main.js.map": "/ProjectQrCode-Frontend/static/js/runtime-main.2ee30f23.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ProjectQrCode-Frontend/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8244dbc2.chunk.js": "/ProjectQrCode-Frontend/static/js/2.8244dbc2.chunk.js",
+    "static/js/2.8244dbc2.chunk.js.map": "/ProjectQrCode-Frontend/static/js/2.8244dbc2.chunk.js.map",
+    "index.html": "/ProjectQrCode-Frontend/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ProjectQrCode-Frontend/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.25383316.chunk.css.map": "/ProjectQrCode-Frontend/static/css/main.25383316.chunk.css.map",
+    "static/js/2.8244dbc2.chunk.js.LICENSE.txt": "/ProjectQrCode-Frontend/static/js/2.8244dbc2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4b6335c.js",
+    "static/js/runtime-main.2ee30f23.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.69453ab2.chunk.js",
+    "static/js/2.8244dbc2.chunk.js",
     "static/css/main.25383316.chunk.css",
-    "static/js/main.dfad0155.chunk.js"
+    "static/js/main.8e4c76ae.chunk.js"
   ]
 }
