@@ -1,4 +1,4 @@
-export const BACKEND = "http://localhost:4001"
+export const BACKEND = "https://backendprojectqrcode.herokuapp.com"
 
 const config = { BACKEND }
 
